@@ -1,0 +1,7 @@
+{
+  "name": "KrishiAI – AI Powered Smart Farming Platform",
+  "description": "A modern, AI-powered platform helping farmers increase income, detect crop diseases, and solve stubble burning through Stubble Setu marketplace.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
